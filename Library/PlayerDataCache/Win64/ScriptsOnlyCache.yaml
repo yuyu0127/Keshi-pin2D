@@ -93,7 +93,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 20
       Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -101,6 +105,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 12130}
     - Class: 114
       Script: {instanceID: 12184}
     - Class: 114
@@ -114,6 +120,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15124}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -185,7 +193,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 20
       Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -193,6 +205,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 12130}
     - Class: 114
       Script: {instanceID: 12184}
     - Class: 114
@@ -206,6 +220,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15124}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -730,4 +746,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/HowToPlayScene.unity
   - Assets/Scenes/GameScene.unity
   - Assets/Scenes/ResultScene.unity
-  playerPath: /Users/arakiyuto/UnityProjects/Keshi-pin2D/Keshi-pin2D_win/Keshi-pin2D.exe
+  playerPath: /Users/arakiyuto/UnityProjects/Keshi-pin2D/Keshi-pin2D_win/Keshi-pin2D_win/Keshi-pin2D.exe

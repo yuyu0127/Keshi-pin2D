@@ -10,7 +10,7 @@ public class RunkingManager : MonoBehaviour
     void Start()
     {
         this.runking = GameObject.Find("Runking");
-        this.runking.GetComponent<Text>().text = "1st : " + StageProperty.first + "p" + "\n" + "2nd : " + StageProperty.second + "p";
+        this.runking.GetComponent<Text>().text = "1位 : " + StageProperty.first + "p" + "\n" + "2位 : " + StageProperty.second + "p";
     }
 
     // Update is called once per frame
